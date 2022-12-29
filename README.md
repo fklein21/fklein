@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ferdinand</h1>
 <h3 align="center">Data Enthusiast</h3>
 
-- 🔭 I’m currently finished the [Undacity's Data Engineer for AI Applications]([https://github.com/DataTalksClub/data-engineering-zoomcamp](https://www.udacity.com/scholarships/bosch-ai-talent-accelerator)) program.
+- 🔭 I recently finished the [Undacity's Data Engineer for AI Applications]([https://github.com/DataTalksClub/data-engineering-zoomcamp](https://www.udacity.com/scholarships/bosch-ai-talent-accelerator)) program.
 
 
 <h3 align="left">Connect with me:</h3>
